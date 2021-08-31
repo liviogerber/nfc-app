@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NFC App</string>
+    <string name="buttonwirteTag">Tag beschreiben</string>
+    <string name="buttonback">Zurück</string>
+    <!-- mainmenu -->
+    <string name="buttontext">Text</string>
+    <string name="buttonurluri">URL</string>
+    <string name="buttoncontact">Kontakt</string>
+    <string name="buttonwlannetwork">Wlan</string>
+    <!-- text -->
+    <string name="fieldtext">Text:</string>
+    <!-- urluri -->
+    <string name="fieldurl">Url:</string>
+    <!-- contact -->
+    <string name="fieldcompany">Firma:</string>
+    <string name="fieldname">Name:</string>
+    <string name="fieldforename">Vorname:</string>
+    <string name="fieldadress">Adresse:</string>
+    <string name="fieldplace">PLZ/ORT:</string>
+    <string name="fieldtel">Tel:</string>
+    <string name="fieldemail">E-Mail:</string>
+    <!-- wlannetwork -->
+    <string name="fieldssid">SSID:</string>
+    <string name="fieldauthenticationtype">Verschlüsselung:</string>
+    <string-array name="spinnerauthenticationtype_array">
+        <!--<item>Open</item>-->
+        <item>WPA</item>
+        <item>WPA2</item>
+    </string-array>
+    <string name="fieldpassword">Passwort:</string>
+    <!-- error -->
+    <string name="buttonagain">Nochmal</string>
+    <string name="buttonbacktomainmenu">Zurück zum Haubtmenü</string>
+    <!-- nfcwirter -->
+    <string name="buttoncancel">Abbrechen</string>
+    <string name="messagebeforenfcwrite">Halten sie das NFC Tag an den NFC Sensor.</string>
+</resources>
